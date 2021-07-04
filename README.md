@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moysser
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on projects related to Angular 
+- 💞️ I’m looking to collaborate on projects related to React
 - 📫 emal me at memoysserazeez66@gmail.com
 
 <!---
