@@ -1,3 +1,33 @@
+![Full-staack Web Developer](https://www.canva.com/design/DAGsNdJgDw4/1zxVVkNnmbQt0IDvd7-z3Q/edit?utm_content=DAGsNdJgDw4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+This is Moysser from Darfur, and I build wed application. I really enjoy learning languages and frameworks like React. 
+
+- 🔭 I’m currently working on food-ordering-app 
+- 🌱 I’m currently learning MangoDB 
+- 👯 I’m looking to collaborate on Back-end projects 
+- 💬 Ask me about JS & React. 
+- ⚡ Fun fact: Why haven't aliens visited our solar system? They saw the reviews and saw only 1 start. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Moysser)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Moysser/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/http_error_503)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](leetcode.com)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Hi there 👋, Moysser
+#### Full-staack Web Developer
 <h1 align="center">Hi 👋, I'm Moysser</h1>
 <h3 align="center">A passionate frontend developer from Sudan.</h3>
 
