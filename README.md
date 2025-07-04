@@ -1,4 +1,4 @@
-![Full-staack Web Developer](https://github.com/Moysser/Moysser/blob/main/aziz.png)
+![Full-staack Web Developer](https://github.com/Moysser/Moysser/blob/main/Green%20Minimalist%20Studio%20Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Moysser</h1>
