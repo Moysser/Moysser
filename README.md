@@ -38,9 +38,9 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moysser&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/moysser/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moysser&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/moysser/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moysser&repo=convoychat" />
 </a>
