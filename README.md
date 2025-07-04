@@ -1,4 +1,4 @@
-![Full-staack Web Developer](https://www.canva.com/design/DAGsNdJgDw4/1zxVVkNnmbQt0IDvd7-z3Q/edit?utm_content=DAGsNdJgDw4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Full-staack Web Developer](https://github.com/Moysser/Moysser/blob/main/aziz.png)
 
 This is Moysser from Darfur, and I build wed application. I really enjoy learning languages and frameworks like React. 
 
