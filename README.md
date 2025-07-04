@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Moysser</h1>
 <h3 align="center">This is Moysser from Darfur, and I build wed application. I really enjoy learning languages and frameworks like React. </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moysser" alt="moysser" /></a> </p>
-
 - 🔭 I’m currently working on [food ordering app](https://github.com/Moysser/Wagba)
 
 - 🌱 I’m currently learning **NodeJS, MongoDB**
