@@ -1,4 +1,4 @@
-![Full-staack Web Developer](https://github.com/Moysser/Moysser/blob/main/moysserbanner.png)
+![Full-staack Web Developer](https://github.com/Moysser/Moysser/blob/main/github-banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Moysser</h1>
