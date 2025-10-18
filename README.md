@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello World!</h1>
-<h3 align="center">This is Moysser from Nyala, and I build wed application. I really enjoy learning languages and frameworks like React. </h3>
+<h3 align="center">This is Moysser from Nyala, and I build wed applications. I really enjoy using javaScript & React. </h3>
 
 - 🔭 I’m currently working on [food ordering app](https://github.com/Moysser/Wagba)
 
