@@ -3,7 +3,7 @@
 
 <h1 align="center">Hello World!</h1>
 <h3 align="center">This is Moysser from Nyala, and I build wed applications. I really enjoy using javaScript & React.
-With an average of two years of experience, I am a front-end engineer with expertise in HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React, Next.js, Git, GitHub, and many more areas.
+With an average of two years of experience, I am a software engineer with expertise in HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React, Next.js, Git, GitHub, and much more.
 
  I'm constantly learning new things outside of work. 
 
