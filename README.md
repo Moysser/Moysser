@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello World!</h1>
-<h6 align="center">This is Moysser from Nyala, and I build wed applications. I really enjoy using javaScript & React.
+<h4 align="center">This is Moysser from Nyala, and I build wed applications. I really enjoy using javaScript & React.
 With an average of two years of experience, I am a software engineer with expertise in HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React, Next.js, Git, GitHub, and much more.
 
  I'm constantly learning new things outside of work. 
@@ -10,7 +10,7 @@ With an average of two years of experience, I am a software engineer with expert
  I'm interested in an opportunity to join a development team that consistently innovates and produces top-notch goods.  I am sure that I can help your business succeed by offering my expertise and abilities.
 
  Would you like to see what I've built and learn more about who I am?
-</h6>
+</h4>
 
 - 🔭 I’m currently working on [food ordering app](https://github.com/Moysser/Wagba)
 
