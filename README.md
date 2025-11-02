@@ -14,15 +14,9 @@ With an average of two years of experience, I am a software engineer with expert
 
 - 🔭 I’m currently working on [food ordering app](https://github.com/Moysser/Wagba)
 
-- 🌱 I’m currently learning **NodeJS, MongoDB**
-
-- 👯 I’m looking to collaborate on **Full-Stack projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Moysser](https://github.com/Moysser)
 
 - 💬 Ask me about **React & JavaScript**
-
-- 📫 How to reach me **moysserazeez@gmail.com**
 
 - ⚡ Fun fact **Why haven't aliens visited our solar system? They saw the reviews and saw only 1 start.**
 
