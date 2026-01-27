@@ -25,7 +25,7 @@
 ### 💻 My Tech Stack
 
 <p align="">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind,sass,python,bash,firebase,supabase,git,github,figma,postman,vercel,netlify,linux,vscode,vim" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,figma,tailwind,sass,bootstrap,materialize,bash,nodejs,firebase,docker,git,github,postman,vercel,netlify,linux,vscode" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
