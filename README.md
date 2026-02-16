@@ -4,25 +4,19 @@
 <h1 align="center">Hello World!</h1>
 <h4 align="center">This is Moysser, Frontend developer with a strong UI layout focus turning Figma designs into pixel-perfect web interfaces. Solid HTML/CSS, experience with reusable UI components, design systems, and much more.
 
- I'm constantly learning new things outside of work. 
-
  I'm interested in an opportunity to join a development team that consistently innovates and produces top-notch goods.  I am sure that I can help your business succeed by offering my expertise and abilities.
 
- Would you like to see what I've built and learn more about who I am?
 </h4>
+- (https://portfolio-archive-lac.vercel.app/)
 
-- 🔭 I’m currently working on [food ordering app](https://github.com/Moysser/Wagba)
+- Ask me about **React & JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Moysser](https://github.com/Moysser)
-
-- 💬 Ask me about **React & JavaScript**
-
-- ⚡ Fun fact **Why haven't aliens visited our solar system? They saw the reviews and saw only 1 start.**
+- Fun fact **Why haven't aliens visited our solar system? They saw the reviews and saw only 1 start.**
 
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 
-### 💻 My Tech Stack
+### 💻 Technologies I Work With
 
 <p align="">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,jquery,figma,materialui,tailwind,sass,bootstrap,bash,nodejs,firebase,docker,git,github,postman,vercel,vite,netlify,linux,vscode,webstorm" />
