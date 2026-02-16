@@ -5,10 +5,10 @@
 <h4>
 Frontend Developer with a strong focus on UI implementation and layout precision. I transform Figma designs into pixel-perfect, accessible, and responsive web interfaces.
 
-• Solid HTML, CSS, JS, TS, React fundamentals
-• Reusable component architecture
-• Design systems & scalable UI
-• Clean, maintainable code
+- Solid HTML, CSS, JS, TS, React fundamentals
+- Reusable component architecture
+- Design systems & scalable UI
+- Clean, maintainable code
 
 Passionate about building polished user experiences and contributing to high-performing development teams.
 
@@ -34,7 +34,6 @@ Passionate about building polished user experiences and contributing to high-per
 <a href="https://twitter.com/http_error_503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="http_error_503" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/moysser aziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moysser aziz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/moysser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moysser" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/HW4jUnPv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/HW4jUnPv" height="30" width="40" /></a>
 </p>
 
 
