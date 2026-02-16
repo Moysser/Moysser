@@ -28,7 +28,7 @@ Passionate about building polished user experiences and contributing to high-per
 ### 💻 Technologies I Work With
 
 <p align="">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,jquery,figma,materialui,tailwind,sass,bootstrap,bash,nodejs,firebase,git,github,jwt,vercel,vite,linux,vscode,webstorm" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,jquery,figma,materialui,tailwind,sass,bootstrap,bash,nodejs,firebase,git,github,vercel,vite,linux,vscode,webstorm" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
