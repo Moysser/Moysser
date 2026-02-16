@@ -2,12 +2,18 @@
 
 
 <h1 align="center">Hello World!</h1>
-<h4 align="center">This is Moysser, Frontend developer with a strong UI layout focus turning Figma designs into pixel-perfect web interfaces. Solid HTML/CSS, experience with reusable UI components, design systems, and much more.
+<h6 align="center">
+Frontend Developer with a strong focus on UI implementation and layout precision. I transform Figma designs into pixel-perfect, accessible, and responsive web interfaces.
 
- I'm interested in an opportunity to join a development team that consistently innovates and produces top-notch goods.  I am sure that I can help your business succeed by offering my expertise and abilities.
+• Solid HTML, CSS, JS, TS, React fundamentals
+• Reusable component architecture
+• Design systems & scalable UI
+• Clean, maintainable code
 
-</h4>
-- (https://portfolio-archive-lac.vercel.app/)
+Passionate about building polished user experiences and contributing to high-performing development teams.
+
+</h6>
+**https://portfolio-archive-lac.vercel.app**
 
 - Ask me about **React & JavaScript**
 
