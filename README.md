@@ -6,6 +6,7 @@
 Frontend Developer with a strong focus on UI implementation and layout precision. I transform Figma designs into pixel-perfect, accessible, and responsive web interfaces.
 
 </h4>
+<br>
 
 - Solid HTML, CSS, JS, TS, React fundamentals
 - Reusable component architecture
