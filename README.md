@@ -5,6 +5,7 @@
 <h4>
 Frontend Developer with a strong focus on UI implementation and layout precision. I transform Figma designs into pixel-perfect, accessible, and responsive web interfaces.
 
+</h4>
 
 - Solid HTML, CSS, JS, TS, React fundamentals
 - Reusable component architecture
@@ -13,7 +14,6 @@ Frontend Developer with a strong focus on UI implementation and layout precision
 
 Passionate about building polished user experiences and contributing to high-performing development teams.
 
-</h4>
 
 🚀 **[Check Out My Portfolio](https://portfolio-archive-lac.vercel.app)**
 
